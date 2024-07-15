@@ -4,7 +4,7 @@
   💻 Estudante de Programação | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
-Sou Engenheira Agrônoma, formada em 2019 pela UFRPE. Trabalhei na área até 2023. Tenho 28 anos e atualmente estou em imersão no mundo da tecnologia. Estou em constante aprendizado e acabei me apaixonando pela área da programação. Espero contribuir nesse novo mundo da melhor forma possível.
+Sou Engenheira Agrônoma, formada em 2019 pela UFRPE. Trabalhei na área até 2023. Tenho 29 anos e atualmente estou em imersão no mundo da tecnologia. Estou em constante aprendizado e acabei me apaixonando pela área da programação. Espero contribuir nesse novo mundo da melhor forma possível.
 
 ## Conecte-se comigo!
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/regianemelo1995)
