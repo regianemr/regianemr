@@ -25,4 +25,4 @@ Desenvolvedora Fullstack, cursando pós-graduação em Análise e Desenvolviment
 
 
 ## Estudando
- ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E) 
+ ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)  ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=aws&logoColor=07405E) 
