@@ -4,7 +4,6 @@
   💻 Desenvolvedora Fullstack | 🌍 Apaixonada por Tecnologia
 </p><br><br>
 
-Desenvolvedora Fullstack, cursando pós-graduação em Análise e Desenvolvimento de Sistemas.
 
 ## Conecte-se comigo!
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/regianemelo1995)
