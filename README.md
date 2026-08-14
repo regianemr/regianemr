@@ -71,4 +71,4 @@ Sites que desenvolvi para clientes:
 | **[nextjs-shop](https://github.com/regianemr/nextjs-shop)** | Loja construída com Next.js e TypeScript | <img alt="lang" src="https://img.shields.io/github/languages/top/regianemr/nextjs-shop?style=flat-square&color=007ACC" /> |
 | **[loja-virtual-vite](https://github.com/regianemr/loja-virtual-vite)** | E-commerce completo em React e Vite | <img alt="lang" src="https://img.shields.io/github/languages/top/regianemr/loja-virtual-vite?style=flat-square&color=F7DF1E" /> |
 | **[aws-students-registry](https://github.com/regianemr/regianemr-aws-students-registry)** | Cadastro de estudantes usando serviços AWS | <img alt="lang" src="https://img.shields.io/github/languages/top/regianemr/regianemr-aws-students-registry?style=flat-square&color=F7DF1E" /> |
-| **[site-ingrid](https://github.com/regianemr/site-ingrid)** | Site institucional em JavaScript | <img alt="lang" src="https://img.shields.io/github/languages/top/regianemr/site-ingrid?style=flat-square&color=F7DF1E" /> |
+
